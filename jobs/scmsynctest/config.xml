@@ -30,7 +30,7 @@
     <hudson.tasks.BatchFile>
       <command>echo &quot;SCM Sync Test&quot;&#xd;
 java -version&#xd;
-javac -version</command>
+</command>
     </hudson.tasks.BatchFile>
   </builders>
   <publishers/>
